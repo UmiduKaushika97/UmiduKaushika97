@@ -3,6 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=umidukaushika97&label=Profile%20views&color=0e75b6&style=flat" alt="umidukaushika97" /> </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umidukaushika97&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
 ---
 
 <h3 align="left">💫 About Me</h3>
