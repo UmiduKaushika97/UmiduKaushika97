@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://umidu-portfolio.vercel.app/](https://umidu-portfolio.vercel.app/)
 
-- - 💬 Ask me about **"Angular, React, NextJs, front-end & back-end integration."**
+- 💬 Ask me about **"Angular, React, NextJs, front-end & back-end integration."**
 
 - 📫 How to reach me **umidu.kaushika@gmail.com**
 
